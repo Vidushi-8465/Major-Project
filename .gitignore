@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data Generated During Experiments
+data/embeddings/
+data/vectordb/
+data/dependency_graphs/
+data/parsed_chunks/
+data/evaluation/
+
+# Cloned Repositories
+data/repositories/
+
+# Generated Outputs
+data/parsed_chunks/*.json
+data/evaluation/*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

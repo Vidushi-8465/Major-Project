@@ -102,14 +102,17 @@ Files involved:
 
 # 4. Scope
 
-## Included
+# 5. Included 
+Evaluation repositories:
 
-- Python repositories only
-- Flask applications
-- Django applications
-- Student Management Systems
-- Hospital Management Systems
-- E-commerce Applications
+1. Django Oscar
+   - Enterprise e-commerce system
+
+2. Hospitality Management System
+   - Domain workflow system
+
+3. Student Management System
+   - Small-scale baseline system
 
 Repository Size:
 
